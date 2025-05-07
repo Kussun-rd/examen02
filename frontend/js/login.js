@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href = 'clientes.html';
     }
     
-    const API_URL = 'http://localhost:8000/api';
+    const API_URL = 'http://3.149.253.205:8000/api';
     
     const loginForm = document.getElementById('loginForm');
     const registerForm = document.getElementById('registerForm');

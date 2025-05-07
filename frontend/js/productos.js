@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
     
-    const API_URL = 'http://localhost:8000/api';
+    const API_URL = 'http://3.149.253.205:8000/api';
     
     const alertContainer = document.getElementById('alertContainer');
     const productosContainer = document.getElementById('productosContainer');
